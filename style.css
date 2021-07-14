@@ -1,0 +1,7 @@
+.container{
+    margin-left:px;
+}
+#result{
+    word-wrap: break-word;
+    visibility: hidden;
+}
